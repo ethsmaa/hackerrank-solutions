@@ -4,7 +4,7 @@ This repository contains my solutions to various HackerRank challenges.
 
 ## Categories
 
-- **SQL**
+- **SQL** (Using MySQL)
   - **Basic Select**: Simple SELECT queries
   - **Advanced Select**: Complex queries involving GROUP BY, HAVING, etc.
   - **Basic Join**: SQL JOIN operations
